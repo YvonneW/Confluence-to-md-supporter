@@ -36,3 +36,4 @@ Main functions of the tool:
     ```
      ./start.sh
     ```
+    NOTE: If you come across the error `No such file or directory: '/<MARKDOWN_SOURCE_FILE_HOME>/mdsource/htmldest/'`, try executing the `easy_install beautifulsoup4` command.
